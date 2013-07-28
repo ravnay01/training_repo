@@ -3,3 +3,5 @@ This is a sample directory
 Adding one more line
 Adding line on bottom
 Ad line at bot
+
+One more line is better
